@@ -1,7 +1,8 @@
- Flask
+Flask
 opencv-python
 Pillow
 python-dotenv
 inference-sdk
 supervision
 imageio-ffmpeg
+gunicorn
